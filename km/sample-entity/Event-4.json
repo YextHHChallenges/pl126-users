@@ -1,0 +1,36 @@
+{
+  "$id": "Event-4",
+  "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
+  "entityType": "event",
+  "content": {
+    "c_featuredGuests": [
+      "Marty Morris - Turtlehead Tacos Founder \u0026 CEO"
+    ],
+    "yext.address": {
+      "city": "Austin",
+      "countryCode": "US",
+      "line1": "1801 E. 51st St",
+      "line2": "Bldg D",
+      "postalCode": "78723",
+      "region": "TX"
+    },
+    "yext.description": "Turtlehead Tacos is proud to promote education! Each year we host \"Taco Math\", an event which focuses on simple arithmetic using tacos. This event also includes the famous \"Count your Tacos\" competition, where kids can guess the number of tacos in a giant taco pyramid and win prizes!",
+    "yext.isFreeEvent": true,
+    "yext.keywords": [
+      "School"
+    ],
+    "yext.landingPageUrl": "http://events.turtleheadtacos.com/event-4",
+    "yext.linkedLocation": "24",
+    "yext.name": "Taco Math",
+    "yext.organizerEmail": "james@turtleheadtacos.com",
+    "yext.time": {
+      "end": "2020-07-02T16:30",
+      "start": "2020-07-02T13:00"
+    },
+    "yext.timezone": "America/Chicago",
+    "yext.venueName": "Turtlehead Tacos",
+    "yext.websiteUrl": {
+      "url": "http://www.turtleheadtacos.com/events"
+    }
+  }
+}

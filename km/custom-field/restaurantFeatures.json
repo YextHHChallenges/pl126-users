@@ -1,0 +1,45 @@
+{
+  "$id": "restaurantFeatures",
+  "$schema": "https://schema.yext.com/config/km/custom-field/v1",
+  "displayName": "Restaurant Features",
+  "apiName": "c_restaurantFeatures",
+  "description": "",
+  "typeId": "type.list",
+  "type": {
+    "listType": {
+      "typeId": "type.option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Outdoor Seating",
+              "textValue": "OUTDOOR_SEATING"
+            },
+            {
+              "displayName": "Live Music",
+              "textValue": "LIVE_MUSIC"
+            },
+            {
+              "displayName": "Accepting Reservations",
+              "textValue": "ACCEPTING_RESERVATIONS"
+            },
+            {
+              "displayName": "Dog Friendly",
+              "textValue": "DOG_FRIENDLY"
+            },
+            {
+              "displayName": "Breakfast for Dinner",
+              "textValue": "BREAKFAST_FOR_DINNER"
+            },
+            {
+              "displayName": "Sells Merchandise",
+              "textValue": "SELLS_MERCHANDISE"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}
