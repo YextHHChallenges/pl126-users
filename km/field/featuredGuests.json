@@ -1,0 +1,20 @@
+{
+  "$id": "featuredGuests",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Featured Guests",
+  "apiName": "c_featuredGuests",
+  "description": "",
+  "typeId": "yext/list",
+  "type": {
+    "listType": {
+      "typeId": "yext/string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

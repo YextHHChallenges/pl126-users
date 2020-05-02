@@ -1,0 +1,16 @@
+{
+  "$id": "restaurantPromotions",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Restaurant Promotions",
+  "apiName": "c_restaurantPromotions",
+  "description": "",
+  "typeId": "yext/list",
+  "type": {
+    "listType": {
+      "typeId": "promotion",
+      "maxLength": 3
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

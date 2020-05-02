@@ -1,0 +1,40 @@
+{
+  "$id": "restaurant",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "entityType": "yext/restaurant",
+  "enabled": true,
+  "field": [
+    {
+      "id": "deliveryDisclaimer",
+      "required": false
+    },
+    {
+      "id": "deliveryHours",
+      "required": false
+    },
+    {
+      "id": "primaryCTA",
+      "required": false
+    },
+    {
+      "id": "promotingEvents",
+      "required": false
+    },
+    {
+      "id": "restaurantFeatures",
+      "required": false
+    },
+    {
+      "id": "restaurantPromotions",
+      "required": false
+    },
+    {
+      "id": "restaurantType",
+      "required": false
+    },
+    {
+      "id": "territory",
+      "required": false
+    }
+  ]
+}

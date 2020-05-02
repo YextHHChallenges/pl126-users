@@ -1,0 +1,16 @@
+{
+  "$id": "deliveryDisclaimer",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Delivery Disclaimer",
+  "apiName": "c_deliveryDisclaimer",
+  "description": "",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 200
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}

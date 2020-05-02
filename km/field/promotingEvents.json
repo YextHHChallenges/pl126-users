@@ -1,0 +1,22 @@
+{
+  "$id": "promotingEvents",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Promoting Events",
+  "apiName": "c_promotingEvents",
+  "description": "",
+  "typeId": "yext/list",
+  "type": {
+    "listType": {
+      "typeId": "yext/entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "yext/event"
+          ]
+        }
+      }
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}
