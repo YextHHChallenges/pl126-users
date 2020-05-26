@@ -2,6 +2,8 @@
   "$id": "Event-4",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/event",
+  "labels": [],
+  "folder": "6a6c09add61e4a5297578af6a45a00a9",
   "content": {
     "c_featuredGuests": [
       "Marty Morris - Turtlehead Tacos Founder \u0026 CEO"
@@ -9,8 +11,7 @@
     "yext/address": {
       "city": "Austin",
       "countryCode": "US",
-      "line1": "1801 E. 51st St",
-      "line2": "Bldg D",
+      "line1": "5811 Berkman Dr",
       "postalCode": "78723",
       "region": "TX"
     },
@@ -24,8 +25,8 @@
     "yext/name": "Taco Math",
     "yext/organizerEmail": "james@turtleheadtacos.com",
     "yext/time": {
-      "end": "2020-07-02T16:30",
-      "start": "2020-07-02T13:00"
+      "end": "2020-09-07T16:30",
+      "start": "2020-09-07T13:00"
     },
     "yext/timezone": "America/Chicago",
     "yext/venueName": "Turtlehead Tacos",

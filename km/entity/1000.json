@@ -2,10 +2,15 @@
   "$id": "1000",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [
+    "3ea67e966bb04104868f239a133a8392"
+  ],
+  "folder": "dad888410151433ba46351437c525f85",
   "content": {
     "c_primaryCTA": {
       "label": "Click to Order",
-      "url": "http://order.turtleheadtacos.com"
+      "link": "http://order.turtleheadtacos.com",
+      "linkType": "URL"
     },
     "c_restaurantPromotions": [
       {
@@ -16,7 +21,7 @@
           "width": 196
         },
         "title": "Tacos \u0026 Tots Tuesdays",
-        "url": "http://www.turtleheadtacos.com"
+        "url": "[[landingPageUrl]]"
       },
       {
         "description": "Buy one Champagne Margarita and get your second on the house. Cheers!",
@@ -26,7 +31,7 @@
           "width": 196
         },
         "title": "2-for-1 Champagne Margaritas",
-        "url": "http://www.turtleheadtacos.com"
+        "url": "[[landingPageUrl]]"
       },
       {
         "description": "Having a party? Let Turtlehead Tacos help! Call today to inquire about our Fiesta Package.",
@@ -36,7 +41,7 @@
           "width": 196
         },
         "title": "Fiesta Package",
-        "url": "http://www.turtleheadtacos.com"
+        "url": "[[landingPageUrl]]"
       }
     ],
     "yext/address": {
@@ -48,7 +53,7 @@
     },
     "yext/addressHidden": false,
     "yext/attire": "CASUAL",
-    "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in Norman, OK today!",
+    "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
     "yext/featuredMessage": {
       "description": "Order online today",
       "url": "http://www.turtleheadtacos.com"

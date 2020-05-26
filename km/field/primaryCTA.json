@@ -4,7 +4,7 @@
   "displayName": "Primary CTA",
   "apiName": "c_primaryCTA",
   "description": "",
-  "typeId": "cta",
+  "typeId": "yext/cta",
   "localization": "PRIMARY_ONLY",
   "group": "GROUP1"
 }
