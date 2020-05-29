@@ -590,7 +590,7 @@
       "sourceColumnName": "Delivery Disclaimer",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "deliveryDisclaimer",
+        "id": "c_deliveryDisclaimer",
         "propertyName": []
       },
       "transform": [
@@ -609,7 +609,7 @@
       "sourceColumnName": "Restaurant Type",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "restaurantType",
+        "id": "c_restaurantType",
         "propertyName": []
       },
       "transform": [
@@ -633,7 +633,7 @@
       "sourceColumnName": "Restaurant Features",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "restaurantFeatures",
+        "id": "c_restaurantFeatures",
         "propertyName": []
       },
       "transform": [
@@ -658,7 +658,7 @@
       "sourceColumnName": "DMA",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "territory",
+        "id": "c_territory",
         "propertyName": []
       },
       "transform": [

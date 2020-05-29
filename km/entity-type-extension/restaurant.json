@@ -5,35 +5,35 @@
   "enabled": true,
   "field": [
     {
-      "id": "deliveryDisclaimer",
+      "id": "c_deliveryDisclaimer",
       "required": false
     },
     {
-      "id": "deliveryHours",
+      "id": "c_deliveryHours",
       "required": false
     },
     {
-      "id": "primaryCTA",
+      "id": "c_primaryCTA",
       "required": false
     },
     {
-      "id": "promotingEvents",
+      "id": "c_promotingEvents",
       "required": false
     },
     {
-      "id": "restaurantFeatures",
+      "id": "c_restaurantFeatures",
       "required": false
     },
     {
-      "id": "restaurantPromotions",
+      "id": "c_restaurantPromotions",
       "required": false
     },
     {
-      "id": "restaurantType",
+      "id": "c_restaurantType",
       "required": false
     },
     {
-      "id": "territory",
+      "id": "c_territory",
       "required": false
     }
   ]

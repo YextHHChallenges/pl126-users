@@ -1,8 +1,7 @@
 {
-  "$id": "featuredGuests",
+  "$id": "c_featuredGuests",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Featured Guests",
-  "apiName": "c_featuredGuests",
   "description": "",
   "typeId": "yext/list",
   "type": {

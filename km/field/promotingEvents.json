@@ -1,8 +1,7 @@
 {
-  "$id": "promotingEvents",
+  "$id": "c_promotingEvents",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Promoting Events",
-  "apiName": "c_promotingEvents",
   "description": "",
   "typeId": "yext/list",
   "type": {

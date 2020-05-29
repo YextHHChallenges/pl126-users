@@ -1,8 +1,7 @@
 {
-  "$id": "deliveryDisclaimer",
+  "$id": "c_deliveryDisclaimer",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Delivery Disclaimer",
-  "apiName": "c_deliveryDisclaimer",
   "description": "",
   "typeId": "yext/string",
   "type": {
