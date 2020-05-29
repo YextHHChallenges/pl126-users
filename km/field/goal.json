@@ -1,8 +1,7 @@
 {
-  "$id": "goal",
+  "$id": "c_goal",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Goal",
-  "apiName": "c_goal",
   "description": "",
   "typeId": "yext/string",
   "type": {

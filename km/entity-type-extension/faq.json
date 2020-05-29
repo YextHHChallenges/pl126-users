@@ -5,7 +5,7 @@
   "enabled": true,
   "field": [
     {
-      "id": "primaryCTA",
+      "id": "c_primaryCTA",
       "required": false
     }
   ]

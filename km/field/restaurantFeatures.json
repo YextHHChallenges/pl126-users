@@ -1,8 +1,7 @@
 {
-  "$id": "restaurantFeatures",
+  "$id": "c_restaurantFeatures",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Restaurant Features",
-  "apiName": "c_restaurantFeatures",
   "description": "",
   "typeId": "yext/list",
   "type": {

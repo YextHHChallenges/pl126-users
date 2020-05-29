@@ -1,8 +1,7 @@
 {
-  "$id": "territory",
+  "$id": "c_territory",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Territory",
-  "apiName": "c_territory",
   "description": "",
   "typeId": "yext/string",
   "type": {

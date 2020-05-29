@@ -1,8 +1,7 @@
 {
-  "$id": "localNonProfits",
+  "$id": "c_localNonProfits",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Local Non-Profits",
-  "apiName": "c_localNonProfits",
   "description": "",
   "typeId": "yext/list",
   "type": {

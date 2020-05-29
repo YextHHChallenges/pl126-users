@@ -1,8 +1,7 @@
 {
-  "$id": "theme",
+  "$id": "c_theme",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Theme",
-  "apiName": "c_theme",
   "description": "",
   "typeId": "yext/list",
   "type": {

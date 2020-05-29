@@ -5,11 +5,11 @@
   "enabled": true,
   "field": [
     {
-      "id": "featuredGuests",
+      "id": "c_featuredGuests",
       "required": false
     },
     {
-      "id": "primaryCTA",
+      "id": "c_primaryCTA",
       "required": false
     }
   ]
