@@ -1,7 +1,6 @@
 {
   "$schema": "https://schema.yext.com/config/km/entity-template/v1",
   "name": "New Restaurant Content",
-  "externalId": "newRestaurantContent",
   "entityTypes": [
     "yext/restaurant"
   ],
@@ -64,5 +63,6 @@
       }
     },
     "yext/priceRange": "ONE"
-  }
+  },
+  "$id": "newRestaurantContent"
 }
