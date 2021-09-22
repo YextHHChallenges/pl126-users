@@ -3,7 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Delivery Hours",
   "description": "",
-  "typeId": "yext/hours",
+  "typeId": "hours",
   "localization": "PRIMARY_ONLY",
   "group": "NONE"
 }

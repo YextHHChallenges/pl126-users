@@ -2,10 +2,10 @@
   "$schema": "https://schema.yext.com/config/km/entity-template/v2",
   "name": "Seasonal Content",
   "entityTypes": [
-    "yext/restaurant"
+    "restaurant"
   ],
   "content": {
-    "yext/featuredMessage": {
+    "featuredMessage": {
       "description": "Taco about the holidays with us!",
       "url": "[[website.url]]"
     }

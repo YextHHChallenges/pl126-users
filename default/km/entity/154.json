@@ -1,7 +1,7 @@
 {
   "$id": "154",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "yext/restaurant",
+  "entityType": "restaurant",
   "labels": [
     "255c24cb89b94c1cbb43672e980813b3"
   ],
@@ -55,21 +55,21 @@
     ],
     "c_restaurantType": "DINE-IN_RESTAURANT",
     "c_territory": "Texas",
-    "yext/address": {
+    "address": {
       "city": "Fort Worth",
       "countryCode": "US",
       "line1": "2116 Mistletoe Blvd",
       "postalCode": "76110",
       "region": "TX"
     },
-    "yext/attire": "CASUAL",
-    "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
-    "yext/featuredMessage": {
+    "attire": "CASUAL",
+    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
+    "featuredMessage": {
       "description": "Order online today",
       "url": "http://www.turtleheadtacos.com"
     },
-    "yext/geomodifier": "Fort Worth",
-    "yext/hours": {
+    "geomodifier": "Fort Worth",
+    "hours": {
       "friday": {
         "openIntervals": [
           {
@@ -127,8 +127,8 @@
         ]
       }
     },
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/logo": {
+    "landingPageUrl": "http://www.turtleheadtacos.com",
+    "logo": {
       "image": {
         "height": 150,
         "thumbnails": [
@@ -142,9 +142,9 @@
         "width": 150
       }
     },
-    "yext/mainPhone": "+18175558271",
-    "yext/name": "Turtlehead Tacos",
-    "yext/photoGallery": [
+    "mainPhone": "+18175558271",
+    "name": "Turtlehead Tacos",
+    "photoGallery": [
       {
         "description": "Our favorite ground beef tacos",
         "image": {
@@ -177,9 +177,9 @@
         }
       }
     ],
-    "yext/priceRange": "ONE",
-    "yext/timezone": "America/Chicago",
-    "yext/websiteUrl": {
+    "priceRange": "ONE",
+    "timezone": "America/Chicago",
+    "websiteUrl": {
       "displayUrl": "[[landingPageUrl]]",
       "preferDisplayUrl": false,
       "url": "[[landingPageUrl]]"

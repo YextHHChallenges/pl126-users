@@ -3,7 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Restaurant Promotions",
   "description": "",
-  "typeId": "yext/list",
+  "typeId": "list",
   "type": {
     "listType": {
       "typeId": "c_promotion",

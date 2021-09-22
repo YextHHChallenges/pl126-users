@@ -3,14 +3,14 @@
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Promoting Events",
   "description": "",
-  "typeId": "yext/list",
+  "typeId": "list",
   "type": {
     "listType": {
-      "typeId": "yext/entityReference",
+      "typeId": "entityReference",
       "type": {
         "entityReferenceType": {
           "supportedEntityTypeIds": [
-            "yext/event"
+            "event"
           ]
         }
       }

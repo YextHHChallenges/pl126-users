@@ -3,7 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Primary CTA",
   "description": "",
-  "typeId": "yext/cta",
+  "typeId": "cta",
   "localization": "PRIMARY_ONLY",
   "group": "NONE"
 }

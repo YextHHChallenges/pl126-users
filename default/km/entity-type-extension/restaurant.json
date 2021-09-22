@@ -1,7 +1,7 @@
 {
   "$id": "restaurant",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "entityType": "yext/restaurant",
+  "entityType": "restaurant",
   "enabled": true,
   "field": [
     {

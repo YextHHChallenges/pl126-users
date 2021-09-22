@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Theme",
   "description": "",
-  "typeId": "yext/list",
+  "typeId": "list",
   "type": {
     "listType": {
-      "typeId": "yext/option",
+      "typeId": "option",
       "type": {
         "optionType": {
           "option": [

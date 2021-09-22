@@ -1,7 +1,7 @@
 {
   "$id": "21",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "yext/restaurant",
+  "entityType": "restaurant",
   "labels": [
     "255c24cb89b94c1cbb43672e980813b3"
   ],
@@ -53,22 +53,22 @@
     ],
     "c_restaurantType": "DINE-IN_RESTAURANT",
     "c_territory": "Texas",
-    "yext/address": {
+    "address": {
       "city": "Cedar Park",
       "countryCode": "US",
       "line1": "401 W Whitestone Blvd",
       "postalCode": "78613",
       "region": "TX"
     },
-    "yext/attire": "CASUAL",
-    "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
-    "yext/featuredMessage": {
+    "attire": "CASUAL",
+    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
+    "featuredMessage": {
       "description": "Order online today",
       "url": "http://www.turtleheadtacos.com"
     },
-    "yext/geomodifier": "Cedar Park",
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/logo": {
+    "geomodifier": "Cedar Park",
+    "landingPageUrl": "http://www.turtleheadtacos.com",
+    "logo": {
       "image": {
         "height": 150,
         "thumbnails": [
@@ -82,9 +82,9 @@
         "width": 150
       }
     },
-    "yext/mainPhone": "+15125550991",
-    "yext/name": "Turtlehead Tacos",
-    "yext/photoGallery": [
+    "mainPhone": "+15125550991",
+    "name": "Turtlehead Tacos",
+    "photoGallery": [
       {
         "description": "Our favorite ground beef tacos",
         "image": {
@@ -117,9 +117,9 @@
         }
       }
     ],
-    "yext/priceRange": "ONE",
-    "yext/timezone": "America/Chicago",
-    "yext/websiteUrl": {
+    "priceRange": "ONE",
+    "timezone": "America/Chicago",
+    "websiteUrl": {
       "displayUrl": "[[landingPageUrl]]",
       "preferDisplayUrl": false,
       "url": "[[landingPageUrl]]"
